@@ -1,8 +1,8 @@
 window.global = window; // `global` değişkenini `window` ile tanımla
 
-  import SimpleLightbox from "simplelightbox";
-  import "simplelightbox/dist/simple-lightbox.min.css";
-  import { images as galleryImages } from '../data/images.js';
+  import SimpleLightbox from "/goit-js-hw-09/node_modules/simplelightbox";
+  import "/goit-js-hw-09/node_modules/simplelightbox/dist/simple-lightbox.min.css";
+  import { images as galleryImages } from '/goit-js-hw-09/src/data/images.js';
 
 
   
