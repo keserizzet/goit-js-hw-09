@@ -1,8 +1,5 @@
 window.global = window; 
 
-
-import './node_modules/simplelightbox/dist/simple-lightbox.min.css';
-
   import { images as galleryImages } from '/goit-js-hw-09/src/data/images.js';
 
 
