@@ -1,7 +1,7 @@
 // window.global = window; 
 
 import SimpleLightbox from "./node_modules/simplelightbox/dist/simple-lightbox.esm.js"
-  import "./node_modules/simplelightbox/dist/simple-lightbox.min.css";
+  import "simplelightbox/dist/simple-lightbox.min.css";
   import { images as galleryImages } from '/goit-js-hw-09/src/data/images.js';
 
 
