@@ -2,7 +2,7 @@
 
 import SimpleLightbox from 'https://cdn.jsdelivr.net/npm/simplelightbox/dist/simple-lightbox.min.js';
 
-  import "simplelightbox/dist/simple-lightbox.min.css";
+  import "https://cdn.jsdelivr.net/npm/simplelightbox/dist/simple-lightbox.min.css";
   import { images as galleryImages } from '/goit-js-hw-09/src/data/images.js';
 
 
