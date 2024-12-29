@@ -1,4 +1,4 @@
-window.global = window; // `global` değişkenini `window` ile tanımla
+// window.global = window; 
 
   import SimpleLightbox from "simplelightbox";
   import "simplelightbox/dist/simple-lightbox.min.css";
@@ -29,7 +29,7 @@ window.global = window; // `global` değişkenini `window` ile tanımla
   galleryContainer.innerHTML = galleryMarkup;
   
   // SimpleLightbox başlatma
-  const lightbox = new SimpleLightbox(".gallery a", {
+  const gallery  = new SimpleLightbox(".gallery a", {
     captionsData: "alt",
     captionDelay: 250,
   });
